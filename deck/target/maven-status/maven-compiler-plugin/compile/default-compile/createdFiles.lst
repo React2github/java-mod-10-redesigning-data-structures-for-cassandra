@@ -1,0 +1,8 @@
+com\example\deck\DeckController.class
+com\example\deck\ValueRepository.class
+com\example\deck\DeckRepository.class
+com\example\deck\Deck.class
+com\example\deck\CardRepository.class
+com\example\deck\Card.class
+com\example\deck\Value.class
+com\example\deck\DeckApplication.class
